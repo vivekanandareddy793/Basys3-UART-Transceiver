@@ -1,4 +1,4 @@
-Basys 3 UART Communication System using Verilog HDL
+## Basys 3 UART Communication System using Verilog HDL
 
 A UART (Universal Asynchronous Receiver Transmitter) communication system designed and implemented in Verilog HDL using a modular RTL architecture, targeting the Digilent Basys 3 FPGA board (Xilinx Artix-7). The design implements UART transmission and reception using separate FSM-based TX and RX modules, along with a dedicated baud rate generator, button-triggered transmission, and LED / seven-segment display interfacing for real-time hardware validation.
 
